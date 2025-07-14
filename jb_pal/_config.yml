@@ -1,23 +1,28 @@
-# Book settings
-# Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
+
+title: Pháp Ảnh Lục
+author: Pháp Ảnh Lục
 logo: logo.png
+
+logo: "./imgs/phapanhluc_logo.png"
+
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
+# execute:
+#   execute_notebooks: force
+
 execute:
-  execute_notebooks: force
+  execute_notebooks: 'off'
 
 # Define the name of the latex output file for PDF builds
-latex:
-  latex_documents:
-    targetname: book.tex
+# latex:
+#   latex_documents:
+#     targetname: book.tex
 
 # Add a bibtex file so that we can create citations
-bibtex_bibfiles:
-  - references.bib
+# bibtex_bibfiles:
+#   - references.bib
 
 # Information about where the book exists on the web
 repository:
@@ -27,6 +32,13 @@ repository:
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+
 html:
-  use_issues_button: true
-  use_repository_button: true
+  use_issues_button: flase
+  use_repository_button: flase
+  favicon : "./imgs/phapanhluc_favicon.ico"  # A path to a favicon image
+
+sphinx: 
+  config: 
+    html_theme_options: 
+      use_download_button: false
