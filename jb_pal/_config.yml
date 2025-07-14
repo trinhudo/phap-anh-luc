@@ -36,6 +36,8 @@ repository:
 html:
   use_issues_button: flase
   use_repository_button: flase
+  html_show_copyright: false
+  html_show_sourcelink: false
   favicon : "./imgs/phapanhluc_favicon.ico"  # A path to a favicon image
 
 sphinx: 

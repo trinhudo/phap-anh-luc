@@ -4,5 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-- file: chu
-- file: kinh
+- file: chu.md
+- file: kinh.md
