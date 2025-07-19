@@ -1,0 +1,24 @@
+version: 1
+project:
+  id: 2025-07-19 25-thang-sau-nam-at-ty alymer-montreal
+  title: Pháp Ảnh Lục
+  description: Pháp Ảnh Lục
+  # keywords: []
+  authors: Pháp Ảnh Lục
+
+  toc:
+    - file: trang-nha.md
+    - file: chu.md
+      children:
+        - file: chu/Chu-Lang-Nghiem.md
+        - file: chu/Chu-Dai-Bi.md
+    - file: kinh.md
+      children:
+        - file: kinh/Kinh-Kim-Cang.md
+      
+    
+site:
+  template: book-theme
+  options:
+    favicon: imgs/phapanhluc_favicon.ico
+    logo: imgs/phapanhluc_logo.png
