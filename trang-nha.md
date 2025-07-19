@@ -2,8 +2,8 @@
 # Pháp Ảnh Lục
 
 ## Chú
-* [Chú Lăng Nghiêm ](./chu/Chu_Lang_Nghiem.md)
-* [Chú Đại Bi](./chu/Chu_Dai_Bi.md)
+* [Chú Lăng Nghiêm ](./chu/Chu-Lang-Nghiem.md)
+* [Chú Đại Bi](./chu/Chu-Dai-Bi.md)
 
 ## Kinh Điển
-- [Kinh Kim Cang](./kinh/Kinh_Kim_Cang.md)
+- [Kinh Kim Cang](./kinh/Kinh-Kim-Cang.md)
