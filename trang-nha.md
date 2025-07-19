@@ -2,6 +2,7 @@
 # Pháp Ảnh Lục
 
 ## Chú
+* [Lăng Nghiêm - Đại Bi - Thập Chú](chu.md)
 * [Chú Lăng Nghiêm ](./chu/Chu-Lang-Nghiem.md)
 * [Chú Đại Bi](./chu/Chu-Dai-Bi.md)
 

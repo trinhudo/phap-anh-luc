@@ -1,30 +1,32 @@
 # Trì Chú  
 
-# CHƠN NGÔN
+<strong>
 
-TỊNH PHÁP GIỚI CHƠN NGÔN
+## CHƠN NGÔN
+
+### TỊNH PHÁP GIỚI CHƠN NGÔN
 
 Án lam sá ha.
 
-TỊNH TAM NGHIỆP CHƠN NGÔN
+### TỊNH TAM NGHIỆP CHƠN NGÔN
 
 Án sa phạ bà phạ, thuật đà sa phạ, đạt ma sa phạ, bà phạ thuật độ hám.
 
-AN THỔ ĐỊA CHƠN NGÔN
+### AN THỔ ĐỊA CHƠN NGÔN
 
 Nam mô tam mãn đa, một đà nẫm. Án, độ rô độ rô, địa vỹ, ta bà ha.
 
-PHỔ CÚNG DƯỜNG CHƠN NGÔN
+### PHỔ CÚNG DƯỜNG CHƠN NGÔN
 
 Án, nga nga nẵng tam bà phạ phiệt nhật ra hồng.
 
-BIẾN THỰC BIẾN THỦY CHƠN NGÔN
+### BIẾN THỰC BIẾN THỦY CHƠN NGÔN
 
 Nam mô tát phạ đác tha nga đa, phạ lồ chỉ đế. Án, tam bạt ra, tam bạt ra hồng.
 
-# CHÚ LĂNG NGHIÊM
+## CHÚ LĂNG NGHIÊM
 
-Nam mô Phật đảnh quang minh Ma ha Tát đát ra Bát đát ra Đà ra ni.
+_Nam mô Phật đảnh quang minh Ma ha Tát đát ra Bát đát ra Đà ra ni._
 
 Nam mô Lăng Nghiêm hội thượng Phật Bồ tát (3 lần).
 
@@ -122,7 +124,7 @@ phóng quang Như Lai
 
 tuyên thuyết thần chú.
 
-( Đệ nhất )
+### ( Đệ nhất )
 
 Nam mô tát đát tha
 
@@ -498,7 +500,7 @@ Quật phạm đô.
 
 Ấn thố na mạ mạ tỏa.
 
-( Đệ nhị )
+### ( Đệ nhị )
 
 Ô hồng.
 
@@ -590,7 +592,7 @@ Mạ mạ.
 
 Ấn thố na mạ mạ tỏa.
 
-( Đệ tam )
+### ( Đệ tam )
 
 Ra xà bà dạ.
 
@@ -854,7 +856,7 @@ Bà dà phạm.
 
 Ấn thố na mạ mạ tỏa.
 
-( Đệ tứ )
+### ( Đệ tứ )
 
 Bà dà phạm.
 
@@ -998,7 +1000,7 @@ Tát đỏa bà tỏa.
 
 Mạ mạ ấn thố na mạ mạ tỏa.
 
-( Đệ ngũ )
+### ( Đệ ngũ )
 
 Đột sắc tra chất đa.
 
@@ -1220,6 +1222,8 @@ Bàn đàm ca lô di.
 
 Đát điệt tha.
 
+<em>
+
 Án.
 
 A na lệ.
@@ -1238,81 +1242,71 @@ Bạt xà ra bán ni phấn.
 
 Hổ hồng đô lô ung phấn.
 
-Ta bà ha. (3 lần)
+Ta bà ha. (3 lần) 
+
+</em>
 
 Nam mô Lăng nghiêm hội thượng Phật Bồ tát ma ha tát. (3 lần)
 
-# CHÚ ĐẠI BI
+## CHÚ ĐẠI BI
 
 Nam mô Đại bi hội thượng Phật Bồ tát (3 lần).
 
-Thiên thủ thiên nhãn vô ngại đại bi tâm đà ra ni. Nam mô hát ra đát na đá ra dạ da. Nam mô a rị da. Bà lô yết đế thước bát ra da. Bồ đề tát đỏa bà da. Ma ha tát đỏa bà da. Ma ha ca rô ni ca da. Án. Tát bàn ra phạt duệ. Số đát na đát tả. Nam mô tất cát lật đỏa y mông a rị da. Bà lô yết đế thất phật ra lăng đà bà. Nam mô na ra cẩn trì. Hê rị ma ha bàn đa sa mế. Tát bà a tha đậu du bằng. A thệ dựng. Tát bà tát đá na ma bà dà. Ma phạt đặc đậu. Đát điệt tha. Án. A bà lô hê, lô ca đế. Ca ra đế. Di hê rị. Ma ha bồ đề tát đỏa. Tát bà tát bà. Ma ra ma ra, ma hê ma hê, rị đà dựng. Câu lô câu lô yết mông. Độ lô độ lô phạt xà da đế, ma ha phạt xà da đế. Đà ra đà ra. Địa rị ni. Thất phật ra da. Dá ra dá ra. Mạ mạ. Phạt ma ra. Mục đế lệ. Y hê y hê, thất na thất na. A ra sâm phật ra xá lợi, phạt sa phạt sâm. Phật ra xá da. Hô lô hô lô ma ra, hô lô hô lô hê rị. Sa ra sa ra. Tất rị tất rị. Tô rô tô rô. Bồ đề dạ bồ đề dạ. Bồ đà dạ bồ đà dạ. Di đế lị dạ. Na ra cẩn trì. Địa lị sắt ni na. Ba dạ ma na, sa bà ha. Tất đà dạ, sa bà ha. Ma ha tất đà dạ, sa bà ha. Tất đà du nghệ. Thất bàn ra dạ, sa bà ha. Na ra cẩn trì, sa bà ha. Ma ra na ra, sa bà ha. Tất ra tăng a mục khư da, sa bà ha. Sa bà ma ha a tất đà dạ, sa bà ha. Giả cát ra a tất đà dạ, sa bà ha. Ba đà ma yết tất đà dạ, sa bà ha. Na ra cẩn trì bàn dà ra da, sa bà ha. Ma bà lị thắng yết ra dạ, sa bà ha. Nam mô hát ra đát na đá ra dạ da. Nam mô a lị da, Bà lô cát đế. Thước bàn ra dạ, sa bà ha. Án, tất điện đô, Mạn đa ra, Bạt đà da, sa bà ha (3 lần).
+Thiên thủ thiên nhãn vô ngại đại bi tâm đà ra ni. Nam mô hát ra đát na đá ra dạ da. Nam mô a rị da. Bà lô yết đế thước bát ra da. Bồ đề tát đỏa bà da. Ma ha tát đỏa bà da. Ma ha ca rô ni ca da. Án. Tát bàn ra phạt duệ. Số đát na đát tả. Nam mô tất cát lật đỏa y mông a rị da. Bà lô yết đế thất phật ra lăng đà bà. Nam mô na ra cẩn trì. Hê rị ma ha bàn đa sa mế. Tát bà a tha đậu du bằng. A thệ dựng. Tát bà tát đá na ma bà dà. Ma phạt đặc đậu. Đát điệt tha. Án. A bà lô hê, lô ca đế. Ca ra đế. Di hê rị. Ma ha bồ đề tát đỏa. Tát bà tát bà. Ma ra ma ra, ma hê ma hê, rị đà dựng. Câu lô câu lô yết mông. Độ lô độ lô phạt xà da đế, ma ha phạt xà da đế. Đà ra đà ra. Địa rị ni. Thất phật ra da. Dá ra dá ra. Mạ mạ. Phạt ma ra. Mục đế lệ. Y hê y hê, thất na thất na. A ra sâm phật ra xá lợi, phạt sa phạt sâm. Phật ra xá da. Hô lô hô lô ma ra, hô lô hô lô hê rị. Sa ra sa ra. Tất rị tất rị. Tô rô tô rô. Bồ đề dạ bồ đề dạ. Bồ đà dạ bồ đà dạ. Di đế lị dạ. Na ra cẩn trì. Địa lị sắt ni na. Ba dạ ma na, sa bà ha. Tất đà dạ, sa bà ha. Ma ha tất đà dạ, sa bà ha. Tất đà du nghệ. Thất bàn ra dạ, sa bà ha. Na ra cẩn trì, sa bà ha. Ma ra na ra, sa bà ha. Tất ra tăng a mục khư da, sa bà ha. Sa bà ma ha a tất đà dạ, sa bà ha. Giả cát ra a tất đà dạ, sa bà ha. Ba đà ma yết tất đà dạ, sa bà ha. Na ra cẩn trì bàn dà ra da, sa bà ha. Ma bà lị thắng yết ra dạ, sa bà ha. Nam mô hát ra đát na đá ra dạ da. Nam mô a lị da, Bà lô cát đế. Thước bàn ra dạ, sa bà ha. _Án, tất điện đô, Mạn đa ra, Bạt đà da, sa bà ha_ (3 lần).
 
-# THẬP CHÚ
+## THẬP CHÚ
 
-## NHƯ Ý BẢO LUÂN VƯƠNG ÐÀ LA NI
+### NHƯ Ý BẢO LUÂN VƯƠNG ÐÀ LA NI
 
-Nam mô Phật đà da.
-
-Nam mô Ðạt ma da.
-
-Nam mô Tăng dà da.
-
+Nam mô Phật đà da.  
+Nam mô Ðạt ma da.  
+Nam mô Tăng dà da.  
 Nam mô Quán tự tại bồ tát ma ha tát, cụ đại bi tâm giả. Ðát diệt tha. Án chước yết ra phạt để, chấn đa mạc ni, ma ha bát đẳng mế, rô rô rô rô, để sắc tra thước ra a yết rị, sa dạ hồng phấn ta ha. Án, bát đạp ma chấn đa mạt ni, thước ra hồng. Án bát lặc đà bát đẳng mế hồng.
 
-## TIÊU TAI CÁT TƯỜNG THẦN CHÚ
+### TIÊU TAI CÁT TƯỜNG THẦN CHÚ
 
 Nẳng mồ tam mãn đa, mẫu đà nẩm. A bát ra để, hạ đa xá ta nẳng nẩm. Ðát điệt tha. Án, khê khê, khê hế, khê hế, hồng hồng, nhập phạ ra, nhập phạ ra, bát ra nhập phạ ra, bát ra nhập phạ ra, để sắc sá, để sắc sá, sắc trí rị, sắc trí rị, ta phấn tra, ta phấn tra, phiến để ca, thất rị duệ, ta phạ ha.
 
-CÔNG ÐỨC BẢO SƠN THẦN CHÚ
+### CÔNG ÐỨC BẢO SƠN THẦN CHÚ
 
-Nam mô Phật đà da.
-
-Nam mô Ðạt ma da.
-
-Nam mô Tăng dà da.
-
+Nam mô Phật đà da.  
+Nam mô Ðạt ma da.  
+Nam mô Tăng dà da.  
 Án, tất đế hộ rô rô, tất đô rô, chỉ rị ba, kiết rị bà tất đạt rị, bố rô rị, ta phạ ha.
 
-## PHẬT MẪU CHUẨN ĐỀ THẦN CHÚ
+### PHẬT MẪU CHUẨN ĐỀ THẦN CHÚ
 
 Khể thủ quy y Tô tất đế, đầu diện đảnh lễ thất cu chi. Ngã kim xưng tán Đại Chuẩn đề, duy nguyện từ bi thùy gia hộ. Nam mô tát đa nẩm tam miệu tam bồ đề, cu chi nẩm. Đát điệt tha. Án, chiết lệ chủ lệ Chuẩn đề, ta bà ha.
 
-## THÁNH VÔ LƯỢNG THỌ QUYẾT ĐỊNH QUANG MINH VƯƠNG ĐÀ RA NI
+### THÁNH VÔ LƯỢNG THỌ QUYẾT ĐỊNH QUANG MINH VƯƠNG ĐÀ RA NI
 
 Án, nại ma ba cát ngỏa đế, a ba ra mật đạp, a ưu rị a nạp, tô tất nể, thiệt chấp đạp, điệp tá ra tể dã, đát tháp cả đạt dã, a ra ha đế, tam dược tam bất đạt dã, đát nể dã tháp. Án, tát rị ba, tang tư cát rị, bót rị thuật đạp, đạt ra mã đế, cả cả nại, tang mã ngột cả đế, ta ba ngỏa, tỷ thuật đế, mã hắt nại dã, bát rị ngỏa rị tá hắt.
 
-## DƯỢC SƯ QUÁN ĐẢNH CHƠN NGÔN
+### DƯỢC SƯ QUÁN ĐẢNH CHƠN NGÔN
 
 Nam mô Bạt già phạt đế, bệ sát xã, lũ rô, thích lưu ly, bác lặc bà, hắc ra xà dã, đát tha yết da gia, a ra hắc đế. Tam miệu tam bột đà da. Đát điệt tha. Án, bệ sát thệ, bệ sát thệ, bệ sát xã, tam một yết đế, tóa ha.
 
-## QUÁN ÂM LINH CẢM CHƠN NGÔN
+### QUÁN ÂM LINH CẢM CHƠN NGÔN
 
 Án, ma ni bát di hồng, ma hắt nghê nha nạp, tích đô đặt ba đạt, tích đặt ta nạp, vi đạt rị cát, tát nhi cáng nhi tháp, bốc rị tất tháp cát nạp, bổ ra nạp, nạp bốc rị, thưu thất ban nạp, nại ma lô kiết, thuyết ra da, tá ha.
 
-## THẤT PHẬT DIỆT TỘI CHƠN NGÔN
+### THẤT PHẬT DIỆT TỘI CHƠN NGÔN
 
 Ly bà ly bà đế, Cầu ha cầu ha đế, Đà ra ni đế, Ni ha ra đế, Tỳ lê nể đế, Ma ha dà đế, Chơn lăng càng đế, ta bà ha.
 
-## VÃNG SANH QUYẾT ÐỊNH CHƠN NGÔN
+### VÃNG SANH QUYẾT ÐỊNH CHƠN NGÔN
 
 Nam mô A di đa bà dạ, Ða tha dà đa dạ, đa điệt dạ tha, A di rị đô bà tỳ, A di rị đa tất đam bà tỳ, A di rị đa tỳ ca lan đế, A di rị đa tỳ ca lan đa, Dà di nị dà dà na, Chỉ đa ca lệ, ta bà ha.
 
-## THIỆN NỮ THIÊN CHÚ
+### THIỆN NỮ THIÊN CHÚ
 
-Nam mô Phật đà.
-
-Nam mô Đạt mạ.
-
-Nam mô Tăng dà.
-
+Nam mô Phật đà.  
+Nam mô Đạt mạ.  
+Nam mô Tăng dà.  
 Nam mô thất lỵ, ma ha để tỷ da, đát nể dã tha, ba lỵ phú lầu na giá lỵ, tam mạn đà, đạt xá ni, ma ha tỳ ha ra dà đế, tam mạn đà, tỳ ni dà đế, ma ha ca rị dã, ba nể ba ra, ba nể tát rị phạ lặt tha, tam mạn đà, tu bác lê đế, phú lệ na, a rị na, đạt mạ đế, ma ha tỳ cổ tất đế, ma ha di lặc đế, lâu phã tăng kỳ đế, hê đế tỷ, tăng kỳ hê đế, tam mạn đà, a tha nậu đà la ni.
 
 # MA HA BÁT NHÃ BA LA MẬT ĐA TÂM KINH
 
-Quán Tự Tại bồ tát hành thâm Bát nhã Ba la mật đa thời, chiếu kiến ngũ uẩn giai không, độ nhứt thiết khổ ách. Xá Lợi Tử, sắc bất dị không, không bất dị sắc, sắc tức thị không, không tức thị sắc ; thọ, tưởng, hành, thức, diệc phục như thị. Xá Lợi Tử, thị chư pháp không tướng, bất sanh bất diệt, bất cấu bất tịnh, bất tăng bất giảm. Thị cố không trung, vô sắc, vô thọ, tưởng, hành, thức. Vô nhãn, nhĩ, tỷ, thiệt, thân, ý ; vô sắc, thanh, hương, vị, xúc, pháp ; vô nhãn giới, nãi chí vô ý thức giới. Vô vô minh, diệc vô vô minh tận, nãi chí vô lão tử, diệc vô lão tử tận. Vô khổ, tập, diệt, đạo. Vô trí, diệc vô đắc, dĩ vô sở đắc cố. Bồ đề tát đoả y Bát nhã Ba la mật đa cố, tâm vô quái ngại, vô quái ngại cố, vô hữu khủng bố, viễn ly điên đảo mộng tưởng, cứu cánh Niết bàn. Tam thế chư Phật, y Bát nhã Ba la mật đa cố, đắc A nậu đa la Tam miệu Tam bồ đề. Cố tri Bát nhã Ba la mật đa, thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chân thiệt bất hư. Cố thuyết Bát nhã Ba la mật đa chú, tức thuyết chú viết: Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha (3 lần).
+Quán Tự Tại bồ tát hành thâm Bát nhã Ba la mật đa thời, chiếu kiến ngũ uẩn giai không, độ nhứt thiết khổ ách. Xá Lợi Tử, sắc bất dị không, không bất dị sắc, sắc tức thị không, không tức thị sắc ; thọ, tưởng, hành, thức, diệc phục như thị. Xá Lợi Tử, thị chư pháp không tướng, bất sanh bất diệt, bất cấu bất tịnh, bất tăng bất giảm. Thị cố không trung, vô sắc, vô thọ, tưởng, hành, thức. Vô nhãn, nhĩ, tỷ, thiệt, thân, ý ; vô sắc, thanh, hương, vị, xúc, pháp ; vô nhãn giới, nãi chí vô ý thức giới. Vô vô minh, diệc vô vô minh tận, nãi chí vô lão tử, diệc vô lão tử tận. Vô khổ, tập, diệt, đạo. Vô trí, diệc vô đắc, dĩ vô sở đắc cố. Bồ đề tát đoả y Bát nhã Ba la mật đa cố, tâm vô quái ngại, vô quái ngại cố, vô hữu khủng bố, viễn ly điên đảo mộng tưởng, cứu cánh Niết bàn. Tam thế chư Phật, y Bát nhã Ba la mật đa cố, đắc A nậu đa la Tam miệu Tam bồ đề. Cố tri Bát nhã Ba la mật đa, thị đại thần chú, thị đại minh chú, thị vô thượng chú, thị vô đẳng đẳng chú, năng trừ nhất thiết khổ, chân thiệt bất hư. Cố thuyết Bát nhã Ba la mật đa chú, tức thuyết chú viết: _Yết đế yết đế, ba la yết đế, ba la tăng yết đế, bồ đề tát bà ha (3 lần)_.
 
----
-
-* [Chú Lăng Nghiêm ](./chu/Chu_Lang_Nghiem.md)
-* [Chú Đại Bi](./chu/Chu_Dai_Bi.md)
+</strong>

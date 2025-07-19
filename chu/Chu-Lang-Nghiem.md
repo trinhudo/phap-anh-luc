@@ -1,6 +1,8 @@
-# Chú Lăng Nghiêm
+# CHÚ LĂNG NGHIÊM
 
-**Nam mô Phật đảnh quang minh Ma ha Tát đát ra Bát đát ra Đà ra ni.**
+<strong>
+
+_Nam mô Phật đảnh quang minh Ma ha Tát đát ra Bát đát ra Đà ra ni._
 
 Nam mô Lăng Nghiêm hội thượng Phật Bồ tát (3 lần).
 
@@ -98,7 +100,7 @@ phóng quang Như Lai
 
 tuyên thuyết thần chú.
 
-( Đệ nhất )
+#### ( Đệ nhất )
 
 Nam mô tát đát tha
 
@@ -474,7 +476,7 @@ Quật phạm đô.
 
 Ấn thố na mạ mạ tỏa.
 
-( Đệ nhị )
+#### ( Đệ nhị )
 
 Ô hồng.
 
@@ -566,7 +568,7 @@ Mạ mạ.
 
 Ấn thố na mạ mạ tỏa.
 
-( Đệ tam )
+#### ( Đệ tam )
 
 Ra xà bà dạ.
 
@@ -830,7 +832,7 @@ Bà dà phạm.
 
 Ấn thố na mạ mạ tỏa.
 
-( Đệ tứ )
+#### ( Đệ tứ )
 
 Bà dà phạm.
 
@@ -974,7 +976,7 @@ Tát đỏa bà tỏa.
 
 Mạ mạ ấn thố na mạ mạ tỏa.
 
-( Đệ ngũ )
+#### ( Đệ ngũ )
 
 Đột sắc tra chất đa.
 
@@ -1196,6 +1198,8 @@ Bàn đàm ca lô di.
 
 Đát điệt tha.
 
+<em>
+
 Án.
 
 A na lệ.
@@ -1214,6 +1218,10 @@ Bạt xà ra bán ni phấn.
 
 Hổ hồng đô lô ung phấn.
 
-Ta bà ha. (3 lần)
+Ta bà ha. (3 lần) 
 
-*Nam mô Lăng nghiêm hội thượng Phật Bồ tát ma ha tát. (3 lần)*
+</em>
+
+Nam mô Lăng nghiêm hội thượng Phật Bồ tát ma ha tát. (3 lần)
+
+</strong>
