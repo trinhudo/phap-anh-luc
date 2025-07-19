@@ -6,4 +6,5 @@
 * [Chú Đại Bi](./chu/Chu-Dai-Bi.md)
 
 ## Kinh Điển
-- [Kinh Kim Cang](./kinh/Kinh-Kim-Cang.md)
+- [Kinh Kim Cang (kinh văn)](./kinh/Kinh-Kim-Cang.tex)
+- [Kinh Kim Cang (Việt văn và Hán văn)](./kinh/Kinh-Kim-Cang.md)
