@@ -8,5 +8,7 @@
 * [Chú Đại Bi](./chu/Chu-Dai-Bi.md)
 
 ## Kinh Điển
-- [Kinh Kim Cang (kinh văn)](./kinh/Kinh-Kim-Cang.tex)
-- [Kinh Kim Cang (Việt văn và Hoa văn)](./kinh/Kinh-Kim-Cang.md)
+- [Kinh Kim Cang (kinh văn)](./kinh/Kinh-Kim-Cang.md)
+- [Kinh Thủ Lăng Nghiêm, bản của Linh Sơn Pháp Bảo Đại Tạng Kinh, Tâm Minh Lê Đình Thám dịch ](./kinh/Kinh-Thu-Lang-Nghiem.md)
+
+<img src="imgs/img_Ho_Phap.jpg" style="width:100%;" />

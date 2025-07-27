@@ -15,6 +15,7 @@ project:
     - file: kinh.md
       children:
         - file: kinh/Kinh-Kim-Cang.md
+        - file: kinh/Kinh-Thu-Lang-Nghiem.md
       
     
 site:
