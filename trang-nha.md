@@ -1,5 +1,6 @@
+<img src="imgs/img_Quan_The_Am_Bo_tat.jpg" style="width:100%;" />
 
-# Pháp Ảnh Lục
+#
 
 ## Chú
 * [Lăng Nghiêm - Đại Bi - Thập Chú](chu.md)

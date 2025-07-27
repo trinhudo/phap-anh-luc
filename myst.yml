@@ -2,9 +2,9 @@ version: 1
 project:
   id: 2025-07-19 25-thang-sau-nam-at-ty alymer-montreal
   title: Pháp Ảnh Lục
-  description: Pháp Ảnh Lục
+  # description: 
   # keywords: []
-  authors: Pháp Ảnh Lục
+  # authors: []
 
   toc:
     - file: trang-nha.md
@@ -19,7 +19,17 @@ project:
       
     
 site:
-  template: book-theme
+  template: article-theme
+
+  # nav:
+  #   - title: Chu
+
   options:
     favicon: imgs/phapanhluc_favicon.ico
-    logo: imgs/phapanhluc_logo.png
+    logo: imgs/phapanhluc_logo.jpg
+    logo_text: Pháp Ảnh Lục
+    hide_outline: false
+    hide_toc: false
+    hide_footer_links: true
+
+
