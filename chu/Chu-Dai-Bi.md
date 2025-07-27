@@ -1,4 +1,4 @@
-# CHÚ ĐẠI BI
+# Chú Đại Bi
 
 <strong>
 

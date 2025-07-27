@@ -1,4 +1,4 @@
-# CHÚ LĂNG NGHIÊM
+# Chú Lăng Nghiêm
 
 <strong>
 
