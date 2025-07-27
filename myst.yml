@@ -14,7 +14,6 @@ project:
         - file: chu/Chu-Dai-Bi.md
     - file: kinh.md
       children:
-        - file: kinh/Kinh-Kim-Cang.tex
         - file: kinh/Kinh-Kim-Cang.md
       
     
