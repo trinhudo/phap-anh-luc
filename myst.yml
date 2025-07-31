@@ -8,14 +8,11 @@ project:
 
   toc:
     - file: trang-nha.md
-    - file: chu.md
-      children:
-        - file: chu/Chu-Lang-Nghiem.md
-        - file: chu/Chu-Dai-Bi.md
-    - file: kinh.md
-      children:
-        - file: kinh/Kinh-Kim-Cang.md
-        - file: kinh/Kinh-Thu-Lang-Nghiem.md
+    - file: chu/Chu-Nhat-Tung.md
+    - file: chu/Chu-Lang-Nghiem.md
+    - file: chu/Chu-Dai-Bi.md
+    - file: kinh/Kinh-Kim-Cang.md
+    - file: kinh/Kinh-Thu-Lang-Nghiem.md
       
     
 site:
