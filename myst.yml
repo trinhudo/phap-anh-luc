@@ -13,6 +13,7 @@ project:
     - file: chu/Chu-Dai-Bi.md
     - file: kinh/Kinh-Kim-Cang.md
     - file: kinh/Kinh-Thu-Lang-Nghiem.md
+    - file: kinh/Van-Thuy-Sam-Ty-kheo-Tri-Quang.md
       
     
 site:

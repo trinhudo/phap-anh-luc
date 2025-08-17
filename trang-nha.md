@@ -11,4 +11,6 @@
 - [Kinh Kim Cang (kinh văn)](./kinh/Kinh-Kim-Cang.md)
 - [Kinh Thủ Lăng Nghiêm](./kinh/Kinh-Thu-Lang-Nghiem.md)
 
+- [Văn Thủy Sám](./kinh/Van-Thuy-Sam-Ty-kheo-Tri-Quang.md)
+
 <img src="imgs/img_Ho_Phap.jpg" style="width:100%;" />
